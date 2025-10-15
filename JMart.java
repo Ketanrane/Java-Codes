@@ -20,7 +20,7 @@ class JMart
 		{
 			System.out.println();
 			System.out.println
-			("      *!*!*!*😊  Welcome To JMart  😊*!*!*!*  ");
+			("      *!*!*!*  Welcome To JMart  *!*!*!*  ");
 			System.out.println();
 			System.out.println("1. Existing Account");
 			System.out.println("2. Create Account");
@@ -302,6 +302,7 @@ class JMart
 		    }
 		}
 	}
+// created by ketan Rane
 	public static void cartPage()
 	{
 		ArrayList<String> cart1 = new ArrayList<>(cart);
